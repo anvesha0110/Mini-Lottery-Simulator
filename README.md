@@ -1,3 +1,3 @@
 # Mini-Lottery-Simulator
-A mini lottery simulator project developed using C programming and html
+A mini lottery simulator project developed using C programming and htmlss
 
